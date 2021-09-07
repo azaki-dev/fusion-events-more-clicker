@@ -1,0 +1,24 @@
+body{
+    width:300px;
+    background-color: #121212;
+    font-family: 'Bebas Neue', cursive;
+    color:#BDBDBD;
+}
+
+button, button::after {
+    margin-left: 1em;
+    width: 70px;
+    height: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 12px;
+    background: linear-gradient(45deg, transparent 5%, #5c035f 5%);
+    border: 0;
+    color: #fff;
+    letter-spacing: 3px;
+    box-shadow: 6px 0px 0px rgb(150, 32, 150);
+    outline: transparent;
+    position: relative;
+  }
+  
+ 
+  

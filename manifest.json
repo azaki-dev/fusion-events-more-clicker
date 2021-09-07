@@ -1,0 +1,18 @@
+{
+    "name":"More Clicker",
+    "version":"0.2",
+    "description":"Click in one of Trustwave Fusion buttons multiples times.",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "icons": { 
+        "16":  "icons/icon16.png",
+        "48":  "icons/icon48.png",
+        "128": "icons/icon128.png" },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "<all_urls>"
+    ],
+    "manifest_version":2
+}
